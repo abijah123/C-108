@@ -1,0 +1,23 @@
+body{
+    background-color: deepskyblue;
+    }
+    .header_div{
+    background-color: gold;
+    }
+    .header_div p {
+    color:red;
+    letter-spacing:2px;
+    font-size:12px;
+    font-weight: bold;
+    }
+    .copy_right_footer{
+    position: fixed;
+    color:darkorange;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(gray);
+    line-height:3;
+    background-color: mediumseagreen;
+    }
